@@ -1,0 +1,43 @@
+h1
+{
+    background-color:black;
+    border:3px solid yellow;
+    color:white;
+    margin-top:-1px;
+}
+body
+{
+    background-image:url("blue.jpg");
+}
+.title
+{
+    height:60px;
+    width:180px;
+    border:4px solid black;
+    background-color:yellow;
+    color:black;
+    text-align:center;
+    font-size:200%;
+    font-weight:bold;
+    font-family:cursive;
+    border-radius:50%;
+    margin:20px;
+    margin-left:70px;
+    margin-top:40px;
+}
+img
+{
+    height:270px;
+    width:35%;
+    border:6px solid navy;
+}
+.fav
+{
+    font-weight:bold;
+    font-style:oblique;
+    font-family:monospace;
+    font-size:150%;
+    text-decoration:underline;
+    color:brown;
+    margin-left:50px;
+}

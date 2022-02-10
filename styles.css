@@ -1,0 +1,157 @@
+h1
+{
+    text-align:center;
+    background-color:black;
+    color:white;
+    font-family:serif;
+    border-left:3px solid yellow;
+    border-top:3px solid yellow;
+    border-bottom:3px solid yellow;
+}
+h3
+{
+    font-weight:bold;
+    text-decoration:underline;
+    font-family:monospace;
+    font-style:italic;
+    margin-left:150px;
+}
+#int
+{
+    margin:20px;
+    text-decoration:underline;
+    font-family:serif;
+    font-weight:bold;
+    font-style:oblique;
+}
+#welcome
+{
+    height:60px;
+    width:35%;
+    border:5px solid black;
+    background-color:navy;
+    font-style:italic;
+    font-size:200%;
+    text-align:center;
+    color:white;
+    margin-left:200px;
+}
+p
+{
+    margin:10px;
+    font-size:115%;
+    font-family:serif;
+}
+#msg
+{
+    margin-left:30px;
+    font-size:130%;
+    font-family:serif;
+    color:brown;
+    font-style:oblique;
+    font-weight:bold;
+}
+#intro
+{
+    height: 154px;
+    width: 50%;
+    background-color: grey;
+    border:3px solid black;
+    color:white;
+    margin-left:100px;
+    border-radius:15px;
+    padding:5px;
+}
+body
+{
+    background-color:lightgrey;
+    background-image:url("main.jpg");
+}
+img
+{
+    border:6px solid black;
+    margin-right:100px;
+    margin-top:60px;
+}
+.web
+{
+    font-size:150%;
+    text-decoration:underline;
+    font-weight:bold;
+    font-family:cursive;
+}
+/* unvisited link */
+.web:link {
+  color: red;
+}
+
+/* visited link */
+.web:visited {
+  color: brown;
+}
+
+/* mouse over link */
+.web:hover {
+  color: navy;
+}
+
+/* selected link */
+.web:active {
+  color: blue;
+}
+/* Style all font awesome icons */
+.fa {
+  padding:15px;
+  font-size:40px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  color:pink;
+  text-decoration:none;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  margin-left:250px;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+/* Instagram */
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-github
+{
+  background: black;
+  color:white;
+}
+#next
+{
+    float:right;
+    color:purple;
+    font-size:400%;
+    margin-right:25px;
+    margin-top:-37px;
+}
+#next:hover
+{
+    color:red;
+    text-decoration:none;
+}

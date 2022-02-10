@@ -1,0 +1,55 @@
+h1
+{
+    background-color:black;
+    border:3px solid yellow;
+    color:white;
+    margin-top:-1px;
+}
+body
+{
+    background-image:url('black.jpg');
+}
+.dev
+{
+    font-size:900%;
+    margin-left:220px;
+}
+#SQL
+{
+    font-size:400%;
+    margin-left:230px;
+    font-family:sans-serif;
+    font-weight:bold;
+}
+.title
+{
+    font-size:300%;
+    margin-left:100px;
+    font-weight:bold;
+    font-family:cursive;
+}
+.right
+{
+    float:right;
+    height:300px;
+    width:40%;
+    margin-top:100px;
+    margin-right:200px;
+    border:6px solid black;
+}
+#code
+{
+    font-size:400%;
+    font-family:monospace;
+    float:right;
+    margin-right:-350px;
+    text-decoration:line-through;
+}
+ul
+{
+    margin-left:140px;
+    font-size:150%;
+    font-style:cursive;
+    color:yellow;
+    font-weight:bold;
+}
